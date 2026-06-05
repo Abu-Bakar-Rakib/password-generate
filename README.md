@@ -73,7 +73,6 @@ for _ in range(5):
 ```
 password-generate/
 ├── README.md
-├── requirements.txt
 └── password_generate.py
 ```
 
@@ -104,5 +103,3 @@ For issues, questions, or suggestions, please open an [issue](https://github.com
 - GitHub: [@Abu-Bakar-Rakib](https://github.com/Abu-Bakar-Rakib)
 
 ---
-
-**Made with ❤️ for secure password generation**
